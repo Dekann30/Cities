@@ -42,3 +42,7 @@ p {
   cursor: pointer;
   object-fit:cover;
 }
+
+.border{
+  border: 3px solid rgb(8, 181, 8);
+}
